@@ -1,0 +1,129 @@
+﻿  Fortnite Skill.cpp
+C:\Users\Orange\Desktop\EVO PASTE\win_utils.h(239,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\xor.hpp(211,22): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\uxtheme.h(1600,57): warning C4459: declaration of 'hwnd' hides global declaration
+C:\Users\Orange\Desktop\EVO PASTE\win_utils.h(24,6): message : see declaration of 'hwnd'
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(195,83): warning C4459: declaration of 'color' hides global declaration
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(105,3): message : see declaration of 'color'
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(196,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(197,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Fortnite Skill.cpp(144,24): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+Fortnite Skill.cpp(37,7): message : see declaration of 'ScreenCenterX'
+Fortnite Skill.cpp(145,24): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+Fortnite Skill.cpp(38,7): message : see declaration of 'ScreenCenterY'
+Fortnite Skill.cpp(154,25): warning C4100: 'in': unreferenced formal parameter
+Fortnite Skill.cpp(178,24): warning C4459: declaration of 'ScreenCenterX' hides global declaration
+Fortnite Skill.cpp(37,7): message : see declaration of 'ScreenCenterX'
+Fortnite Skill.cpp(178,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(179,24): warning C4459: declaration of 'ScreenCenterY' hides global declaration
+Fortnite Skill.cpp(38,7): message : see declaration of 'ScreenCenterY'
+Fortnite Skill.cpp(179,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(180,24): warning C4459: declaration of 'ScreenCenterZ' hides global declaration
+Fortnite Skill.cpp(39,7): message : see declaration of 'ScreenCenterZ'
+Fortnite Skill.cpp(180,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(181,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(238,87): warning C4100: 'z2': unreferenced formal parameter
+Fortnite Skill.cpp(238,54): warning C4100: 'z1': unreferenced formal parameter
+Fortnite Skill.cpp(273,21): warning C4018: '<': signed/unsigned mismatch
+Fortnite Skill.cpp(294,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(320,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(331,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(331,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(341,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(341,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(350,132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(350,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(350,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(353,123): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(353,111): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(353,67): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(353,61): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(354,126): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(354,90): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(354,76): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(354,47): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+Fortnite Skill.cpp(412,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Fortnite Skill.cpp(421,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(421,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(434,220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(438,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(438,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(441,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(441,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(441,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(441,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(441,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(444,209): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(447,178): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(469,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(469,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(482,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(482,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(488,232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(491,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(491,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(491,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(491,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(491,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(494,221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(497,190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(517,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(517,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Fortnite Skill.cpp(523,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(407,9): warning C4189: 'BoxWidth': local variable is initialized but not referenced
+Fortnite Skill.cpp(696,190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+Fortnite Skill.cpp(696,69): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+Fortnite Skill.cpp(696,60): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+Fortnite Skill.cpp(681,3): warning C4189: 'TextSpaceLine': local variable is initialized but not referenced
+Fortnite Skill.cpp(682,3): warning C4189: 'SpaceLineOne': local variable is initialized but not referenced
+Fortnite Skill.cpp(683,3): warning C4189: 'SpaceLineTwo': local variable is initialized but not referenced
+Fortnite Skill.cpp(684,3): warning C4189: 'SpaceLineThr': local variable is initialized but not referenced
+Fortnite Skill.cpp(1036,32): warning C4100: 'argv': unreferenced formal parameter
+Fortnite Skill.cpp(1036,14): warning C4100: 'argc': unreferenced formal parameter
+Fortnite Skill.cpp(1398,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+Fortnite Skill.cpp(1399,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+Fortnite Skill.cpp(1431,42): warning C4459: declaration of 'Message' hides global declaration
+Fortnite Skill.cpp(1357,5): message : see declaration of 'Message'
+C:\Users\Orange\Desktop\EVO PASTE\xor.hpp(224,33): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\xor.hpp(222): message : while compiling class template member function 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)'
+Fortnite Skill.cpp(1058): message : see reference to function template instantiation 'char *CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>::decrypt(void)' being compiled
+Fortnite Skill.cpp(1057): message : see reference to class template instantiation 'CXorString<IndexList<0,1,2,3,4,5,6,7,8,9>>' being compiled
+  Generating code
+  30 of 1224 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  vase.vcxproj -> C:\Users\Orange\Desktop\EVO PASTE\x64\Release\EvoExternal.exe
