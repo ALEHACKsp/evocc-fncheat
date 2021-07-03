@@ -1,0 +1,121 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  Fortnite Skill.cpp
+C:\Users\Orange\Desktop\EVO PASTE\win_utils.h(73,30): warning C4244: '=': conversion from 'unsigned __int64' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\win_utils.h(90,30): warning C4244: '=': conversion from 'unsigned __int64' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(196,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(197,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(199,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(200,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(201,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(202,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(203,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(204,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(205,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Main.h(206,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(178,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(179,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(180,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(181,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(273,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(294,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(294,38): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(320,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(320,38): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(331,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(331,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(341,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(341,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(350,64): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(350,49): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(350,132): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(353,67): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(353,61): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(353,123): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(353,111): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(354,76): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(354,47): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(354,126): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(354,90): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(379,47): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(390,47): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(396,46): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(397,45): warning C4244: 'argument': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(412,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(421,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(421,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(434,220): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(438,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(438,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(441,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(441,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(441,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(441,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(441,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(444,209): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(447,178): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(461,27): warning C4244: '=': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(469,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(469,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(482,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(482,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(488,232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(491,115): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(491,69): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(491,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(491,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(491,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(494,221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(497,190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(511,27): warning C4244: '=': conversion from 'uint64_t' to 'DWORD_PTR', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(517,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(517,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(523,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(696,69): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(696,60): warning C4244: 'argument': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(696,190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1037,55): error C2664: 'HANDLE CreateThread(LPSECURITY_ATTRIBUTES,SIZE_T,LPTHREAD_START_ROUTINE,LPVOID,DWORD,LPDWORD)': cannot convert argument 3 from 'DWORD (__cdecl *)(LPVOID)' to 'LPTHREAD_START_ROUTINE'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1037,27): message : None of the functions with this name in scope match the target type
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\processthreadsapi.h(170,1): message : see declaration of 'CreateThread'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1048,36): error C2664: 'BOOL SetConsoleTitleW(LPCWSTR)': cannot convert argument 1 from 'LPCSTR' to 'LPCWSTR'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1048,32): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\consoleapi2.h(510,1): message : see declaration of 'SetConsoleTitleW'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1051,194): error C2664: 'DWORD FormatMessageW(DWORD,LPCVOID,DWORD,DWORD,LPWSTR,DWORD,va_list *)': cannot convert argument 5 from 'LPSTR' to 'LPWSTR'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1051,169): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(2471,1): message : see declaration of 'FormatMessageW'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1320,30): error C2440: '=': cannot convert from 'const char [8]' to 'LPCWSTR'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1320,21): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1338,109): error C2664: 'HWND CreateWindowExW(DWORD,LPCWSTR,LPCWSTR,DWORD,int,int,int,int,HWND,HMENU,HINSTANCE,LPVOID)': cannot convert argument 2 from 'const char [8]' to 'LPCWSTR'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1338,32): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(4432,1): message : see declaration of 'CreateWindowExW'
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1398,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\Orange\Desktop\EVO PASTE\Fortnite Skill.cpp(1399,23): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+  Generating Code...
